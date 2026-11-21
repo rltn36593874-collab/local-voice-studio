@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\user\agent-company\06-devops\work\voice-bench\stt_fw.py", line 49, in <module>
+    segs, info = model.transcribe(path, beam_size=5, language="ko")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\agent-company\06-devops\work\voice-bench\.venv\Lib\site-packages\faster_whisper\transcribe.py", line 876, in transcribe
+    audio = decode_audio(audio, sampling_rate=sampling_rate)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\agent-company\06-devops\work\voice-bench\.venv\Lib\site-packages\faster_whisper\audio.py", line 46, in decode_audio
+    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "av/container/core.py", line 479, in av.container.core.open
+    def open(
+    ^^^^^^^^^^
+TypeError: open() got an unexpected keyword argument 'metadata_errors'

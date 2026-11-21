@@ -1,0 +1,9 @@
+# 서버 가상환경(04-backend/work/.venv, Python 3.12). 모델·엔진은 넣지 않는다(엔진은 DevOps voice-bench 가상환경 재사용).
+fastapi==0.165.0
+starlette==1.10.0
+uvicorn==0.54.0
+python-multipart==0.0.34
+anthropic==2.12.0
+# 시험용
+pytest==9.2.0
+httpx==0.28.1

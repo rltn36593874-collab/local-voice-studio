@@ -1,0 +1,142 @@
+{
+ "round": "R2",
+ "seed": 20261122,
+ "target_voiced_rms_dbfs": -20.0,
+ "clips": {
+  "R2-01.wav": {
+   "label": "supertonic F2 sp0.95 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 6.0,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.42
+  },
+  "R2-02.wav": {
+   "label": "repeat-R1-01 (supertonic F1 sp1.05 L1, R1 score 2)",
+   "source": "C:\\Users\\user\\agent-company\\05-qa\\work\\listening-r1\\R1-01.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": -1.6,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.26
+  },
+  "R2-03.wav": {
+   "label": "supertonic M2 sp0.95 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\M2_sp0.95\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 3.1,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.64
+  },
+  "R2-04.wav": {
+   "label": "anchor-human-M (FLEURS ko 2225271070930226818, CC BY 4.0; STT CER 0% on small/medium/large-v3)",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\datasets\\fleurs_ko\\test\\2225271070930226818.wav",
+   "text": "이 병은 돼지에 의해 옮겨진 다음, 모기를 통해 인간에게 옮겨집니다.",
+   "gain_db": 31.3,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 7.78
+  },
+  "R2-05.wav": {
+   "label": "supertonic F3 sp0.95 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F3_sp0.95\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 5.1,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 6.36
+  },
+  "R2-06.wav": {
+   "label": "supertonic M2 sp0.95 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\M2_sp0.95\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 3.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.76
+  },
+  "R2-07.wav": {
+   "label": "supertonic F2 sp1.05 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 4.9,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 4.9
+  },
+  "R2-08.wav": {
+   "label": "supertonic M2 sp1.05 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\M2_sp1.05\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 2.8,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.2
+  },
+  "R2-09.wav": {
+   "label": "anchor-human-F (FLEURS ko 2695369876430250203, CC BY 4.0; STT CER 0% on small/medium/large-v3)",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\datasets\\fleurs_ko\\test\\2695369876430250203.wav",
+   "text": "오늘날 날개를 접을 수 없는 곤충은 잠자리와 파리밖에 없습니다.",
+   "gain_db": 13.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.0
+  },
+  "R2-10.wav": {
+   "label": "supertonic M2 sp1.05 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\M2_sp1.05\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 3.3,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.2
+  },
+  "R2-11.wav": {
+   "label": "supertonic F2 sp1.05 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 5.6,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.0
+  },
+  "R2-12.wav": {
+   "label": "supertonic F3 sp1.05 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F3_sp1.05\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 4.3,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.84
+  },
+  "R2-13.wav": {
+   "label": "supertonic F2 sp0.95 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 5.2,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.46
+  },
+  "R2-14.wav": {
+   "label": "supertonic F3 sp0.95 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F3_sp0.95\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 4.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 6.28
+  },
+  "R2-15.wav": {
+   "label": "supertonic F3 sp1.05 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F3_sp1.05\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 4.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.58
+  }
+ }
+}

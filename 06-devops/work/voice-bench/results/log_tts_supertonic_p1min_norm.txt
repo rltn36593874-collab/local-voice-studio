@@ -1,0 +1,1 @@
+RESULT {"engine": "supertonic-3", "load_s": 1.41, "sentences": 1, "rows": [{"style": "F2", "speed": 0.95, "audio_s": 60.9, "proc_s": 18.2, "rtf": 0.299}, {"style": "F2", "speed": 1.05, "audio_s": 55.2, "proc_s": 17.8, "rtf": 0.321}]}

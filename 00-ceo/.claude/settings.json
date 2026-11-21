@@ -1,0 +1,14 @@
+{
+  "model": "claude-fable-5-2",
+  "effortLevel": "high",
+  "modelSettings": {
+    "claude-fable-5-2": {
+      "effortLevel": "high"
+    }
+  },
+  "permissions": {
+    "additionalDirectories": [
+      "C:\\Users\\user\\agent-company"
+    ]
+  }
+}

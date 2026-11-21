@@ -1,0 +1,91 @@
+{
+ "seed": 20261121,
+ "target_rms_dbfs": -20.0,
+ "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results",
+ "clips": {
+  "R1-01.wav": {
+   "engine": "supertonic",
+   "text_id": "L1",
+   "gain_db": 5.3,
+   "rms_after": -20.0,
+   "peak_after": -3.5
+  },
+  "R1-02.wav": {
+   "engine": "melo",
+   "text_id": "L4",
+   "gain_db": -2.4,
+   "rms_after": -20.0,
+   "peak_after": -5.4
+  },
+  "R1-03.wav": {
+   "engine": "supertonic",
+   "text_id": "L4",
+   "gain_db": 6.2,
+   "rms_after": -20.0,
+   "peak_after": -5.8
+  },
+  "R1-04.wav": {
+   "engine": "supertonic",
+   "text_id": "L2",
+   "gain_db": 5.4,
+   "rms_after": -20.0,
+   "peak_after": -4.1
+  },
+  "R1-05.wav": {
+   "engine": "supertonic",
+   "text_id": "P1min",
+   "gain_db": 5.4,
+   "rms_after": -20.0,
+   "peak_after": -2.5
+  },
+  "R1-06.wav": {
+   "engine": "melo",
+   "text_id": "L1",
+   "gain_db": -3.1,
+   "rms_after": -20.0,
+   "peak_after": -5.1
+  },
+  "R1-07.wav": {
+   "engine": "supertonic",
+   "text_id": "L5",
+   "gain_db": 5.9,
+   "rms_after": -20.0,
+   "peak_after": -4.5
+  },
+  "R1-08.wav": {
+   "engine": "melo",
+   "text_id": "L2",
+   "gain_db": -3.1,
+   "rms_after": -20.0,
+   "peak_after": -6.4
+  },
+  "R1-09.wav": {
+   "engine": "melo",
+   "text_id": "P1min",
+   "gain_db": -2.8,
+   "rms_after": -20.0,
+   "peak_after": -4.6
+  },
+  "R1-10.wav": {
+   "engine": "melo",
+   "text_id": "L5",
+   "gain_db": -2.3,
+   "rms_after": -20.0,
+   "peak_after": -5.2
+  },
+  "R1-11.wav": {
+   "engine": "melo",
+   "text_id": "L3",
+   "gain_db": -3.4,
+   "rms_after": -20.0,
+   "peak_after": -6.0
+  },
+  "R1-12.wav": {
+   "engine": "supertonic",
+   "text_id": "L3",
+   "gain_db": 6.0,
+   "rms_after": -20.0,
+   "peak_after": -5.7
+  }
+ }
+}

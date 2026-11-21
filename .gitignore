@@ -1,0 +1,47 @@
+# --- 비밀값 (절대 올리지 않음) ---
+.env
+.env.*
+*.env
+!**/.env.example
+*.pem
+*.key
+cookies*.json
+.pixel-agents/
+**/.claude/settings.local.json
+
+# --- 재설치물·캐시 ---
+.venv/
+.venv-*/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+06-devops/work/voice-bench/cache/
+06-devops/work/voice-bench/pythons/
+06-devops/work/voice-bench/models/
+06-devops/work/voice-bench/engines/
+06-devops/work/voice-bench/vendor/
+
+# --- 다운로드한 데이터셋 원본 (FLEURS·Zeroth, 다시 받을 수 있음) ---
+06-devops/work/voice-bench/datasets/
+
+# --- 개인 음성·런타임 데이터 ---
+secure_voices/
+**/data/
+**/uploads/
+04-backend/work/samples/rev-check-data/logs/
+
+# --- 남의 저작물: 짐링크 인스타 제품 사진 ---
+08-marketing/work/mm5050se/ref/
+
+# --- 사람 녹음(FLEURS 클립)이 든 청취용 wav: 빼기 (TTS wav만 올림) ---
+05-qa/work/listening-r2/R2-04.wav
+05-qa/work/listening-r2/R2-09.wav
+05-qa/work/listening-r3/R3-03.wav
+05-qa/work/listening-r3/R3-08.wav
+
+# --- 기타 ---
+*.log
+Thumbs.db
+desktop.ini

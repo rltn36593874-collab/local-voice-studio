@@ -1,0 +1,99 @@
+{
+ "1 대본 다듬기": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 83,
+   "output_tokens": 74,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000211
+  },
+  "error": null
+ },
+ "4 브리핑": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 118,
+   "output_tokens": 181,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000216
+  },
+  "error": null
+ },
+ "2 요약": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 105,
+   "output_tokens": 254,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000307
+  },
+  "error": null
+ },
+ "3 번역": {
+  "status": "done",
+  "error": null
+ },
+ "5 정규화": {
+  "status": "done",
+  "normalizer": "claude:tts_normalize.v1+local",
+  "normalized": "칠십이 점 에스이오 점수, 천이백팔십사 명 참여, 전년 대비 십이 점 오 퍼센트 증가."
+ },
+ "ledger": [
+  {
+   "feature": "script",
+   "input_tokens": 83,
+   "cache_write_5m_tokens": 1322,
+   "cache_read_tokens": 0,
+   "output_tokens": 74,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1452,
+   "cost_usd_est": 0.00021055000000000002
+  },
+  {
+   "feature": "briefing",
+   "input_tokens": 118,
+   "cache_write_5m_tokens": 908,
+   "cache_read_tokens": 0,
+   "output_tokens": 181,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1391,
+   "cost_usd_est": 0.00021580000000000001
+  },
+  {
+   "feature": "stt_summary",
+   "input_tokens": 105,
+   "cache_write_5m_tokens": 1359,
+   "cache_read_tokens": 0,
+   "output_tokens": 254,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 3405,
+   "cost_usd_est": 0.000307375
+  },
+  {
+   "feature": "srt_translate",
+   "input_tokens": 152,
+   "cache_write_5m_tokens": 1466,
+   "cache_read_tokens": 0,
+   "output_tokens": 103,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1906,
+   "cost_usd_est": 0.00024995
+  },
+  {
+   "feature": "tts_normalize",
+   "input_tokens": 40,
+   "cache_write_5m_tokens": 1501,
+   "cache_read_tokens": 0,
+   "output_tokens": 53,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1296,
+   "cost_usd_est": 0.000218125
+  }
+ ],
+ "total_usd": 0.0012018
+}

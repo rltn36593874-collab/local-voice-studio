@@ -1,0 +1,64 @@
+{
+  "model": "claude-opus-5-5",
+  "effortLevel": "high",
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "high"
+    }
+  },
+  "permissions": {
+    "additionalDirectories": [
+      "C:\\Users\\user\\agent-company\\shared"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Agent|Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:\\Users\\user\\agent-company\\.org\\subagent-limit.js\" 2",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "PostToolUseFailure": [
+      {
+        "matcher": "Agent|Task",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:\\Users\\user\\agent-company\\.org\\subagent-limit.js\" 2",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:\\Users\\user\\agent-company\\.org\\subagent-limit.js\" 2",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:\\Users\\user\\agent-company\\.org\\subagent-limit.js\" 2",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

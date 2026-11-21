@@ -1,0 +1,1 @@
+RESULT {"engine": "faster-whisper", "model": "medium", "compute": "int8", "threads": 10, "files": 60, "load_s": 3.36, "audio_s": 774.5, "proc_s": 309.7, "rtf": 0.4, "first_seg_s_avg": 5.16, "cer": 0.0328, "ref_chars": 2863}

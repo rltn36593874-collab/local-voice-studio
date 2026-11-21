@@ -1,0 +1,16 @@
+path,label,text
+C:\Users\user\agent-company\06-devops\work\voice-bench\datasets\fleurs_ko\test\2695369876430250203.wav,"anchor-human-F (FLEURS ko 2695369876430250203, CC BY 4.0; STT CER 0% on small/medium/large-v3)",오늘날 날개를 접을 수 없는 곤충은 잠자리와 파리밖에 없습니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\datasets\fleurs_ko\test\2225271070930226818.wav,"anchor-human-M (FLEURS ko 2225271070930226818, CC BY 4.0; STT CER 0% on small/medium/large-v3)","이 병은 돼지에 의해 옮겨진 다음, 모기를 통해 인간에게 옮겨집니다."
+C:\Users\user\agent-company\05-qa\work\listening-r2\R2-13.wav,"repeat-R2-13 (supertonic F2 sp0.95 L1, R2 score 4; same source as the F2 sp0.95 L1 clip in this set)",골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\L1.wav,supertonic F2 sp0.95 L1,골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\L2.wav,supertonic F2 sp0.95 L2,주차는 건물 뒤편 공영주차장을 이용하시면 두 시간까지 무료입니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\L3n.wav,supertonic F2 sp0.95 L3n,이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\L4n.wav,supertonic F2 sp0.95 L4n,홈페이지의 에스이오 점수가 칠십이 점에서 팔십오 점으로 올랐습니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\L5.wav,supertonic F2 sp0.95 L5,"오늘 확인할 일은 세 가지입니다. 리뷰 답글, 사진 교체, 영업시간 수정입니다."
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp0.95\P1min_norm.wav,supertonic F2 sp0.95 P1min_norm,(약 1분) 위 다섯 문장(L1·L2·숫자 브리핑·SEO 점수·할 일)을 차례로 되풀이한 문단: 골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요. 주차는 건물 뒤편 공영주차장을 이용 …
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\L1.wav,supertonic F2 sp1.05 L1,골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\L2.wav,supertonic F2 sp1.05 L2,주차는 건물 뒤편 공영주차장을 이용하시면 두 시간까지 무료입니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\L3n.wav,supertonic F2 sp1.05 L3n,이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\L4n.wav,supertonic F2 sp1.05 L4n,홈페이지의 에스이오 점수가 칠십이 점에서 팔십오 점으로 올랐습니다.
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\L5.wav,supertonic F2 sp1.05 L5,"오늘 확인할 일은 세 가지입니다. 리뷰 답글, 사진 교체, 영업시간 수정입니다."
+C:\Users\user\agent-company\06-devops\work\voice-bench\results\supertonic_var\F2_sp1.05\P1min_norm.wav,supertonic F2 sp1.05 P1min_norm,(약 1분) 위 다섯 문장(L1·L2·숫자 브리핑·SEO 점수·할 일)을 차례로 되풀이한 문단: 골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요. 주차는 건물 뒤편 공영주차장을 이용 …

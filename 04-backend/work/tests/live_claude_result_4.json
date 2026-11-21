@@ -1,0 +1,83 @@
+{
+ "1 대본 다듬기": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 83,
+   "output_tokens": 80,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000214
+  },
+  "error": null
+ },
+ "4 브리핑": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 118,
+   "output_tokens": 218,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000234
+  },
+  "error": null
+ },
+ "2 요약": {
+  "status": 200,
+  "usage": {
+   "input_tokens": 105,
+   "output_tokens": 241,
+   "cache_read_tokens": 0,
+   "est_usd": 0.000301
+  },
+  "error": null
+ },
+ "3 번역": {
+  "status": "done",
+  "error": null
+ },
+ "ledger": [
+  {
+   "feature": "script",
+   "input_tokens": 83,
+   "cache_write_5m_tokens": 1322,
+   "cache_read_tokens": 0,
+   "output_tokens": 80,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1453,
+   "cost_usd_est": 0.00021355000000000001
+  },
+  {
+   "feature": "briefing",
+   "input_tokens": 118,
+   "cache_write_5m_tokens": 908,
+   "cache_read_tokens": 0,
+   "output_tokens": 218,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1765,
+   "cost_usd_est": 0.0002343
+  },
+  {
+   "feature": "stt_summary",
+   "input_tokens": 105,
+   "cache_write_5m_tokens": 1359,
+   "cache_read_tokens": 0,
+   "output_tokens": 241,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1937,
+   "cost_usd_est": 0.000300875
+  },
+  {
+   "feature": "srt_translate",
+   "input_tokens": 152,
+   "cache_write_5m_tokens": 1466,
+   "cache_read_tokens": 0,
+   "output_tokens": 103,
+   "stop_reason": "end_turn",
+   "status": "ok",
+   "latency_ms": 1485,
+   "cost_usd_est": 0.00024995
+  }
+ ],
+ "total_usd": 0.000998675
+}

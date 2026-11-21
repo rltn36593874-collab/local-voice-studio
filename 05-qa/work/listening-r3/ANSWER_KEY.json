@@ -1,0 +1,142 @@
+{
+ "round": "R3",
+ "seed": 20261123,
+ "target_voiced_rms_dbfs": -20.0,
+ "clips": {
+  "R3-01.wav": {
+   "label": "supertonic F2 sp0.95 L4n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L4n.wav",
+   "text": "홈페이지의 에스이오 점수가 칠십이 점에서 팔십오 점으로 올랐습니다.",
+   "gain_db": 5.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.02
+  },
+  "R3-02.wav": {
+   "label": "supertonic F2 sp1.05 L5",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L5.wav",
+   "text": "오늘 확인할 일은 세 가지입니다. 리뷰 답글, 사진 교체, 영업시간 수정입니다.",
+   "gain_db": 5.9,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.44
+  },
+  "R3-03.wav": {
+   "label": "anchor-human-F (FLEURS ko 2695369876430250203, CC BY 4.0; STT CER 0% on small/medium/large-v3)",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\datasets\\fleurs_ko\\test\\2695369876430250203.wav",
+   "text": "오늘날 날개를 접을 수 없는 곤충은 잠자리와 파리밖에 없습니다.",
+   "gain_db": 13.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.0
+  },
+  "R3-04.wav": {
+   "label": "supertonic F2 sp1.05 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 5.6,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.0
+  },
+  "R3-05.wav": {
+   "label": "supertonic F2 sp0.95 L3n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L3n.wav",
+   "text": "이번 주 방문자는 지난주보다 십이 퍼센트 늘어난 천이백팔십사 명입니다.",
+   "gain_db": 6.0,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.42
+  },
+  "R3-06.wav": {
+   "label": "supertonic F2 sp0.95 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 5.2,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.46
+  },
+  "R3-07.wav": {
+   "label": "supertonic F2 sp0.95 L2",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L2.wav",
+   "text": "주차는 건물 뒤편 공영주차장을 이용하시면 두 시간까지 무료입니다.",
+   "gain_db": 6.0,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.02
+  },
+  "R3-08.wav": {
+   "label": "anchor-human-M (FLEURS ko 2225271070930226818, CC BY 4.0; STT CER 0% on small/medium/large-v3)",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\datasets\\fleurs_ko\\test\\2225271070930226818.wav",
+   "text": "이 병은 돼지에 의해 옮겨진 다음, 모기를 통해 인간에게 옮겨집니다.",
+   "gain_db": 31.3,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 7.78
+  },
+  "R3-09.wav": {
+   "label": "supertonic F2 sp0.95 P1min_norm",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\P1min_norm.wav",
+   "text": "빵집·주차·방문자 수·SEO 점수·할 일, 다섯 문장을 차례로 두 번 되풀이한 문단: 골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요. 주차는 건물 뒤편 공영주차장을 이용 …",
+   "gain_db": 5.7,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 60.22
+  },
+  "R3-10.wav": {
+   "label": "supertonic F2 sp1.05 P1min_norm",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\P1min_norm.wav",
+   "text": "빵집·주차·방문자 수·SEO 점수·할 일, 다섯 문장을 차례로 두 번 되풀이한 문단: 골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요. 주차는 건물 뒤편 공영주차장을 이용 …",
+   "gain_db": 5.5,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 54.56
+  },
+  "R3-11.wav": {
+   "label": "repeat-R2-13 (supertonic F2 sp0.95 L1, R2 score 4; same source as the F2 sp0.95 L1 clip in this set)",
+   "source": "C:\\Users\\user\\agent-company\\05-qa\\work\\listening-r2\\R2-13.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 0.0,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.46
+  },
+  "R3-12.wav": {
+   "label": "supertonic F2 sp0.95 L5",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp0.95\\L5.wav",
+   "text": "오늘 확인할 일은 세 가지입니다. 리뷰 답글, 사진 교체, 영업시간 수정입니다.",
+   "gain_db": 5.2,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 5.98
+  },
+  "R3-13.wav": {
+   "label": "supertonic F2 sp1.05 L2",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L2.wav",
+   "text": "주차는 건물 뒤편 공영주차장을 이용하시면 두 시간까지 무료입니다.",
+   "gain_db": 6.5,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 4.56
+  },
+  "R3-14.wav": {
+   "label": "supertonic F2 sp1.05 L1",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L1.wav",
+   "text": "골목 끝 작은 빵집에서 매일 아침 일곱 시에 갓 구운 빵을 만나 보세요.",
+   "gain_db": 4.9,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 4.9
+  },
+  "R3-15.wav": {
+   "label": "supertonic F2 sp1.05 L4n",
+   "source": "C:\\Users\\user\\agent-company\\06-devops\\work\\voice-bench\\results\\supertonic_var\\F2_sp1.05\\L4n.wav",
+   "text": "홈페이지의 에스이오 점수가 칠십이 점에서 팔십오 점으로 올랐습니다.",
+   "gain_db": 5.2,
+   "peak_limited": false,
+   "voiced_rms_after": -20.0,
+   "sec": 4.56
+  }
+ }
+}
